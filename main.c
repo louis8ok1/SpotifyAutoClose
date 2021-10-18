@@ -1,8 +1,7 @@
 //=======================================
 //File name: Spotify_auto_closed.exe
-//Author: Louis Chen
 //
-//**** all rights reserve ****
+//Author: Louis Chen
 //
 //=======================================
 #include <windows.h>
