@@ -29,7 +29,7 @@
     - `Process32Next`
        > Using Process32Next to get next process(module,thread).
 
-- 一鍵正確關閉Spotify就按執行檔`Spotify_auto_closed.exe`即可
+- 一鍵正確關閉Spotify就按執行檔`./bin/Debug/Spotify_auto_closed.exe`即可
 
 ## Conclusion
 
